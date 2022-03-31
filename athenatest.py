@@ -6,3 +6,4 @@ This is a temporary script file.
 """
 
 my_string="Hello World Test"
+hi="hi again"
